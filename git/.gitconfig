@@ -1,1 +1,10 @@
-/home/francois/.gitconfig
+[user]
+	name = François Yen
+	email = francoisyen@icloud.com
+	signingkey = 13C61C90D63235C4
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[init]
+	defaultBranch = main
